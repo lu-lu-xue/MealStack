@@ -42,3 +42,4 @@ out/
 **/AppConfig.java
 Backend/docker-compose.yml
 Backend/src/main/resources/application.yml
+Backend/src/main/resources/database-init.sql
