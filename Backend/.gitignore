@@ -39,4 +39,4 @@ out/
 # ignore config and env
 .env
 *.env
-Backend/src/main/java/com/laioffer/onlineorder/AppConfig.java
+**/AppConfig.java
